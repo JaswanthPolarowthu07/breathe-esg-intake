@@ -1,0 +1,7 @@
+MaterialDocument,MaterialDocumentYear,MaterialDocumentItem,Buchungsdatum,Werk,Lagerort,GoodsMovementType,Material,Kurztext,Warengruppe,ErfassME,Menge,Einkaufsbeleg,Einkaufsbelegposition,Lieferant,Nettowert,Waehrung,LastChangeDateTime
+4900001098,2025,1,31.03.2025,1000,0001,201,DIESEL-BULK,Diesel fuel for backup generators,FUEL-DIESEL,L,12400,,,Gulf Energy,,USD,2025-04-01
+4900001101,2025,1,04/03/2025,9999,0002,201,DIESEL-FLEET,Diesel fleet card fuel,FUEL-DIESEL,GAL,980,,,FleetCard Co,,USD,2025-04-04
+4900001108,2025,1,2025-04-15,DE01,0001,202,DIESEL-BULK,Diesel reversal for duplicate goods issue,FUEL-DIESEL,L,-600,,,Rhein Energie,,EUR,2025-04-16
+,,,2025-04-20,1000,,"",OFFICE-SUPPLIES,Office supplies and safety gloves,MRO,,,"4500107788","10",BASF Trading,18450.25,USD,2025-04-21
+,,,2025-04-21,DE01,,"",MACHINE-PART,Replacement compressor assembly,CAPEX,,,"4500107799","20",Schmidt GmbH,88000.00,EUR,2025-04-22
+4900001160,2026,1,2026-07-01,2100,0004,201,PETROL-CARD,Petrol card import for service vehicles,FUEL-GASOLINE,L,4200,,,FuelPlus,,USD,2026-07-02

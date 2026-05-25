@@ -1,0 +1,8 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "pip install -r requirements.txt && python manage.py collectstatic --no-input"
+
+[deploy]
+startCommand = "python manage.py migrate && python manage.py seed_demo --if-empty && gunicorn breathe_esg.wsgi:application --bind 0.0.0.0:$PORT"
+healthcheckPath = "/api/health/"
+restartPolicyType = "ON_FAILURE"

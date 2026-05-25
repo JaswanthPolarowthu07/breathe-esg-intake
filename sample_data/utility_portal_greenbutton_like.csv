@@ -1,0 +1,8 @@
+meter_id,account_number,facility_code,utility_name,service_start,service_end,usage,usage_unit,demand_kw,tariff,cost,currency,bill_id,read_type
+TX-44319,771922,HOU-PLANT,CenterPoint Energy,2025-03-16,2025-04-14,84210,kWh,410,Large General Service,10420.55,USD,INV-88421,Actual
+DE-77881,DE-19002,BER-PLANT,Vattenfall,01.04.2025,30.04.2025,94.2,MWh,380,Industrie Mittelspannung,26880.10,EUR,DE-BILL-331,Estimated
+TX-88312,771923,AUS-DC,Austin Energy,2025-04-01,2025-04-30,0,kWh,0,Commercial Secondary,78.00,USD,INV-88444,Actual
+TX-44319,771922,HOU-PLANT,CenterPoint Energy,2025-03-16,2025-04-14,83990,kWh,405,Large General Service,10390.30,USD,INV-88421-R1,Actual
+MTR-UNKNOWN,991100,UNKNOWN,Regional Utility,2025-04-01,2025-04-30,2100000,kWh,5100,,218000.00,USD,INV-99900,Actual
+TX-44319,771922,HOU-PLANT,CenterPoint Energy,2025-05-01,2025-05-31,,kWh,420,Large General Service,9400.00,USD,INV-88490,Actual
+DE-77881,DE-19002,BER-PLANT,Vattenfall,2025-06-30,2025-06-01,84,MWh,300,Industrie Mittelspannung,24000.00,EUR,DE-BILL-339,Actual
