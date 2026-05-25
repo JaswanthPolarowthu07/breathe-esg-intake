@@ -4,17 +4,15 @@ Django REST backend with a React analyst UI for ingesting SAP, utility, and corp
 
 ## Live demo (online — Render)
 
+**App URL:** https://breathe-esg-intake.onrender.com
+
 **GitHub repo:** https://github.com/JaswanthPolarowthu07/breathe-esg-intake
 
-**One-click deploy to Render (permanent URL):**  
-https://render.com/deploy?repo=https://github.com/JaswanthPolarowthu07/breathe-esg-intake
+**Render dashboard:** https://dashboard.render.com/web/srv-d8a1kbojs32c739mdkng
 
-1. Sign in to Render (GitHub login is fine).
-2. Click **Apply** on the Blueprint (uses `render.yaml` — web service + PostgreSQL).
-3. Wait ~5–8 minutes for the first build.
-4. Open your app at `https://breathe-esg-intake.onrender.com` (or the URL Render shows in the dashboard).
+Deployed on Render (free web service + PostgreSQL). No login required in the app. Demo tenant **ACME Global Manufacturing** is seeded on first boot.
 
-No login required in the app. Demo tenant **ACME Global Manufacturing** is seeded on first boot.
+To redeploy from the repo, push to `master` on GitHub (auto-deploy is enabled).
 
 ## Local run
 
